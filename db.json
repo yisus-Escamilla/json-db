@@ -1,0 +1,32 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "title": "React desde Cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+            "price": 40,
+            "profesor": "Jesus Escamilla"
+          },
+          {
+            "id": 2,
+            "title": "CSS desde Cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/css-poster_1.jpg?itok=VUK9BKuY",
+            "price": 50,
+            "profesor": "Jesus Escamilla"
+          },
+          {
+            "id": 3,
+            "title": "HTML desde Cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/HTML-2018.jpg?itok=Gyvm-W9t",
+            "price": 20,
+            "profesor": "Jesus Escamilla"
+          },
+          {
+            "id": 4,
+            "title": "JS desde Cero",
+            "image": "http://www.livingtheweb.com.ar/img/javascript/img-02.jpg",
+            "price": "Gratis",
+            "profesor": "Jesus Escamilla"
+          }
+    ]
+}
